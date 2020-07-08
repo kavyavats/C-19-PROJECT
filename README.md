@@ -1,2 +1,2 @@
-# C-19-project
-bounce off
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
